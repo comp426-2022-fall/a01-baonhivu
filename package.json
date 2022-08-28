@@ -4,7 +4,8 @@
   "description": "Building a webserver in Node.js for COMP 426",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js --port=5555"
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,7 @@
     "args",
     "http"
   ],
-  "author": "baonhivu",
+  "author": "@baonhivu",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a01-baonhivu/issues"
