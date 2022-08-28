@@ -1,0 +1,28 @@
+{
+  "name": "baonhivu-webserver",
+  "version": "1.0.0",
+  "description": "Building a webserver in Node.js for COMP 426",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-baonhivu.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "baonhivu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-baonhivu/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-baonhivu#readme"
+}
